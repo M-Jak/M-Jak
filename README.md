@@ -7,3 +7,6 @@
     👨‍🎓 Currently lightsaber dueling @ <a href="https://finki.ukim.mk/en">FCSE</a> <br>
   </samp>
 </p>
+
+
+<sup><sub><sup>I put my lab work tasks on GitHub so it looks like I'm active af</sup></sub></sup>
