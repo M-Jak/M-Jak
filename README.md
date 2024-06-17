@@ -4,9 +4,17 @@
 
 <p align="center">
   <samp>
-    👨‍🎓 Currently lightsaber dueling @ <a href="https://finki.ukim.mk/en">FCSE</a> <br>
+    👨‍🎓 Currently lightsaber dueling @ <a href="https://finki.ukim.mk/en">FCSE</a><br>
+  </samp>
+  <samp>
+    🐱‍💻 On Utapau working on some AI related projects <sup><sub>So uncivilized!<sub><sup><br>
+  </samp>
+  <samp>
+    🎮 Gamin- I mean meditating on the Force in my free time.<br>
+  </samp>
+  <samp>
+    🐱‍🏍 Hoping to make my own hologames someday<br>
   </samp>
 </p>
 
-
-<sup><sub><sup>I put my lab work tasks on GitHub so it looks like I'm active af</sup></sub></sup>
+<sup><sub><sup>I put my Jedi Council assignments on GitHub so it looks like I'm super active</sup></sub></sup>
